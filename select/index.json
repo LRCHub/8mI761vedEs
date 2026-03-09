@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Hello tonight",
+  "base_artist": "FINLANDS",
+  "createdAt": "2026-03-09T11:42:07.292691Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hello tonight",
+      "artist": "FINLANDS",
+      "has_synced": true,
+      "path": "select/01_Hello_tonight_FINLANDS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hello tonight",
+      "artist": "FINLANDS",
+      "has_synced": false,
+      "path": "select/pl_01_Hello_tonight_FINLANDS.txt"
+    }
+  ]
+}
